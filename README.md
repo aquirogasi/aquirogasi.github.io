@@ -4,7 +4,7 @@
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
-![Images/landingResize.png](images/landingResize.png)
+![Images/landingResize.png](img/landingResize.png)
 
 ### Before You Begin
 
@@ -81,45 +81,45 @@ This section contains screenshots of each page that must be built, at varying sc
 #### Landing page
 
 Large screen:
-![Landing page large screen](images/landing-lg.png)
+![Landing page large screen](img/landing-lg.png)
 
 Small screen:
-![Landing page small screen](images/landing-sm.png)
+![Landing page small screen](img/landing-sm.png)
 ￼
 
 #### Comparisons page
 
 Large screen:
-![comparison page large screen](Images/comparison-lg.png)
+![comparison page large screen](img/comparison-lg.png)
 
 Small screen:
-![comparison page small screen](images/comparison-sm.png)
+![comparison page small screen](img/comparison-sm.png)
 
 #### Data page
 
 Large screen:
-![data page large screen](images/data-lg.png)
+![data page large screen](img/data-lg.png)
 
 Small screen:
-![data page small screen](images/data-sm.png)
+![data page small screen](img/data-sm.png)
 
 #### Visualization pages
 
 You'll build four of these, one for each visualization. Here's an example of one:
 
 Large screen:
-![visualize page large screen](images/visualize-lg.png)
+![visualize page large screen](img/visualize-lg.png)
 
 Small screen:
-![visualize page small screen](images/visualize-sm.png)
+![visualize page small screen](img/visualize-sm.png)
 
 #### Navigation menu
 
 Large screen:
-![nav menu large screen](images/nav-lg.png)
+![nav menu large screen](img/nav-lg.png)
 
 Small screen:
-![nav menu small screen](images/nav-sm.png)
+![nav menu small screen](img/nav-sm.png)
 
 ### Copyright
 
